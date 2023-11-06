@@ -1,0 +1,2 @@
+numpy.linalg for linear equation solution - https://stackabuse.com/solving-systems-of-linear-equations-with-pythons-numpy/
+pulp - https://coin-or.github.io/pulp/
